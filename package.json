@@ -1,6 +1,6 @@
 {
   "name": "@cheeseswapv2/ui-sdk",
-  "version": "2.2.4",
+  "version": "2.2.5",
   "description": "Set of UI components for AMM v2 projects",
   "publishConfig": {
     "access": "public"
